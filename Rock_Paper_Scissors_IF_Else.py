@@ -1,15 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[21]:
-
-
 import random
 
 print("Rock Paper Scissors Game!!!")
@@ -58,23 +49,3 @@ else:
     print("You lost the game :(")
 
     
-("")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
